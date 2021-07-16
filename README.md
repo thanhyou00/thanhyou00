@@ -1,3 +1,4 @@
+![:thanhyou00](https://count.getloli.com/get/@:thanhyou00)
 - 👋 Hi, I’m @thanhyou00
 - 👀 I’m interested in Web frontend and backend :/
 - 🌱 I’m currently learning Java , HTML & CSS , Javascript , C , C++, Python ....
