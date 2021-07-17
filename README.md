@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java , HTML & CSS , Javascript , C , C++, Python .... <br>
 - 💞️ Group Facebook : https://www.facebook.com/groups/242272107118908 <br>
 - 📫 My gmail : thanhyou00@gmail.com
-<h3> Github Status </h3>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=thanhyou00" alt="">
 
 
