@@ -3,9 +3,9 @@
 <img src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" />
 
 ### Introduce
-### • 👋 Hi, I’m Thanhyou00 
-### • 🏞 Join with us https://www.facebook.com/groups/242272107118908 <br>
-### • 📫 How to reach me thanhyou00@gmail.com
+• 👋 Hi, I’m Thanhyou00  <br>
+• 📕 Join with us https://www.facebook.com/groups/242272107118908 <br>
+• 📫 How to reach me thanhyou00@gmail.com
 
 
 
