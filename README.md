@@ -13,6 +13,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhyou00&show_icons=true&theme=radical)
 
 
+### Contact with me
+
+[<img align="left"  alt="thanhyou00 | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+[<img align="left" alt="thanhyou00 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="thanhyou00 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br>
 ### Top Languages
 <p>
 <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=VisualStudioCode&logoColor=fff" />  
@@ -27,5 +33,6 @@
 <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" />       
 </p>
 
-
-
+[youtube]: https://www.youtube.com/channel/UCJrZG7d10z_Xv2fPanjOvzA
+[instagram]: https://www.instagram.com/thanhyou00
+[twitter]: https://twitter.com/thanhyou00
