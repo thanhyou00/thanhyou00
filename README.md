@@ -16,7 +16,6 @@
 ### Contact with me
 
 [<img align="left" background-color="red"  alt="thanhyou00 | YouTube" width="55px" height="16px" src="https://img.shields.io/badge/-YouTube-FF0000?logo=YouTube&logoColor=fff" />][youtube] 
-[<img align="left" alt="thanhyou00 | Instagram" width="55px" height="16px" src="https://img.shields.io/badge/-Instagram-FF3366?logo=Instagram&logoColor=fff" />][instagram]
 [<img align="left" alt="thanhyou00 | Twitter" width="55px" height="16px" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=fff" />][twitter]
 <br>
 ### Top Languages
