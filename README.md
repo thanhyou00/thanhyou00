@@ -3,10 +3,11 @@
 <img src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" />
 
 ### Introduce
+<em>
 • 👋 Hi, I’m Thanhyou00  <br>
 • 📕 Join with us https://www.facebook.com/groups/242272107118908 <br>
 • 📫 How to reach me thanhyou00@gmail.com
-
+</em>
 
 
 ### Github Status
@@ -19,6 +20,7 @@
 [<img align="left" alt="thanhyou00 | Twitter" width="55px" height="16px" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=fff" />][twitter]
 <br>
 ### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>
 <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=VisualStudioCode&logoColor=fff" />  
 <img src="https://img.shields.io/badge/-Netbeans-1B6AC6?logo=apachenetbeanside&logoColor=fff" />  
