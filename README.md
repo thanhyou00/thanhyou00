@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/-Javascript-f7DF1E?logo=javascript&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?logo=MicrosoftSQLServer&logoColor=fff" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" /> 
+<img src="https://img.shields.io/badge/-React Native-22a6b3?logo=react&logoColor=fff" /> 
 <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff" />  
 <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" />       
 </p>
