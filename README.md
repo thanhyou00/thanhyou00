@@ -38,4 +38,4 @@
 
 [youtube]: https://www.youtube.com/channel/UCJrZG7d10z_Xv2fPanjOvzA
 [instagram]: https://www.instagram.com/thanhyou00
-[twitter]: https://twitter.com/thanhyou00
+[twitter]: https://twitter.com/thanhyou0011
