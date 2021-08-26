@@ -1,8 +1,9 @@
 
 
-<img src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" />
+<img align="center" src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" />
+<hr>
 
-### Introduce
+### Introduce <br>
 <em>
 • 👋 Hi, I’m Thanhyou00  <br>
 • 📕 Join with us https://www.facebook.com/groups/242272107118908 <br>
@@ -20,8 +21,9 @@
 [<img align="left" alt="thanhyou00 | Twitter" width="55px" height="16px" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=fff" />][twitter]
 <br>
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<p >
 <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=VisualStudioCode&logoColor=fff" />  
 <img src="https://img.shields.io/badge/-Netbeans-1B6AC6?logo=apachenetbeanside&logoColor=fff" />  
 <img src="https://img.shields.io/badge/-CSS-157286?logo=css3&logoColor=fff" />
