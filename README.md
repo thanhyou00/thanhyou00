@@ -4,11 +4,11 @@
 <hr>
 
 ### Introduce <br>
-<em>
+
 • 👋 Hi, I’m Thanhyou00  <br>
 • 📕 Join with us https://www.facebook.com/groups/242272107118908 <br>
 • 📫 How to reach me thanhyou00@gmail.com
-</em>
+
 
 
 ### Github Status
