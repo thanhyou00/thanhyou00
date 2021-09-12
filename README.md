@@ -1,29 +1,29 @@
-
-
-<img align="center" src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" />
-<hr>
-
-### Introduce <br>
-
-• 👋 Hi, I’m Thanhyou00  <br>
-• 📕 Join with us https://www.facebook.com/groups/242272107118908 <br>
-• 📫 How to reach me thanhyou00@gmail.com
-
-
-
-### Github Status
+</br>
+<div align="center"><img align="center" src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" /></div>
+</br>
+<div align="center">
+  <a href="https://github.com/thanhyou00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+,+my+name+is+thanhyou00;And+I+am+a+Web+Developer;Thank+for+reading+and+love+you+so+much+!&center=true&width=450&height=45"/>
+  </a>
+</div>
+<div align="center">
+  
+ </br> 
+  
 ![thanhyou00's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhyou00&show_icons=true&theme=radical)
+  
+</div>
 
-
-### Contact with me
-
-[<img align="left" background-color="red"  alt="thanhyou00 | YouTube" width="55px" height="16px" src="https://img.shields.io/badge/-YouTube-FF0000?logo=YouTube&logoColor=fff" />][youtube] 
-[<img align="left" alt="thanhyou00 | Twitter" width="55px" height="16px" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=fff" />][twitter]
 <br>
-### Top Languages
+
+## 
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-<p >
+  
+</div>  
+<p align="center">
 <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=VisualStudioCode&logoColor=fff" />  
 <img src="https://img.shields.io/badge/-Netbeans-1B6AC6?logo=apachenetbeanside&logoColor=fff" />  
 <img src="https://img.shields.io/badge/-CSS-157286?logo=css3&logoColor=fff" />
