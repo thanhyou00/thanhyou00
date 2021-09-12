@@ -1,8 +1,10 @@
 </br>
 <div align="center"><img align="center" src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" /></div>
 </br>
-<div align="center">
+<div align="center"  style='border: 10px solid #ffffff'>
+ <kbd>
 <img  src="https://i.imgur.com/7A5ZfPJ.gif" />
+ </kbd>
  </div> 
 </br>
 <div align="center">
