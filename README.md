@@ -1,6 +1,9 @@
 </br>
 <div align="center"><img align="center" src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" /></div>
 </br>
+
+##
+
 <div align="center"  style='border: 10px solid #ffffff'>
  <kbd>
 <img  src="https://i.imgur.com/7A5ZfPJ.gif" />
@@ -12,17 +15,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+my+friends+!;My+name+is+thanhyou00;And+I+am+a+Web+Developer;Thank+for+reading+and+love+you+so+much+!&center=true&width=450&height=45"/>
   </a>
 </div>
+
+
+## 
+
 <div align="center">
   
- </br> 
-  
+
 ![thanhyou00's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhyou00&show_icons=true&theme=radical)
   
 </div>
-
-<br>
-
-## 
 
 <div align="center">
 
