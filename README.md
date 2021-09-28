@@ -2,7 +2,7 @@
 <div align="center"><img align="center" src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" /></div>
 </br>
 
-<img src="https://i.pinimg.com/originals/fa/8d/38/fa8d38f28940fb3ca0195e2096e555e1.gif" />
+<img width="100%" height="450" src="https://i.pinimg.com/originals/fa/8d/38/fa8d38f28940fb3ca0195e2096e555e1.gif" />
 
 ##
 
