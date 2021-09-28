@@ -2,12 +2,14 @@
 <div align="center"><img align="center" src="https://count.getloli.com/get/@:thanhyou00" alt=":thanhyou00" /></div>
 </br>
 
+<img src="https://i.pinimg.com/originals/fa/8d/38/fa8d38f28940fb3ca0195e2096e555e1.gif" />
+
 ##
 
 <div align="center"  style='border: 10px solid #ffffff'>
- <kbd>
-<img  src="https://i.imgur.com/7A5ZfPJ.gif" />
- </kbd>
+
+
+
  </div> 
 </br>
 <div align="center">
