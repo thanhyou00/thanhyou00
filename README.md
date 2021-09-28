@@ -12,18 +12,19 @@
 </br>
 <div align="center">
   <a href="https://github.com/thanhyou00">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+my+friends+!;My+name+is+thanhyou00;And+I+am+a+Web+Developer;Thank+for+reading+and+love+you+so+much+!&center=true&width=450&height=45"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+my+friends+!;My+name+is+thanhyou00;And+I+am+a+Web+Developer;Thank+for+reading+and+love+you+so+much+!&center=true&width=500&height=45"/>
   </a>
 </div>
 
 
-## 
-
+### Statistics
 
 | ![thanhyou00's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhyou00&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  |
 | --------------- | --------------- |
 
-<p align="center">    
+### Languages
+
+<p>    
 <img src="https://img.shields.io/badge/-CSS-157286?logo=css3&logoColor=fff" />
 <img src="https://img.shields.io/badge/-HTML-e34F26?logo=html5&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Javascript-f7DF1E?logo=javascript&logoColor=fff" />
