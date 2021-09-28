@@ -19,18 +19,10 @@
 
 ## 
 
-<div align="center">
-  
 
-![thanhyou00's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhyou00&show_icons=true&theme=radical)
-  
-</div>
+| ![thanhyou00's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhyou00&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  |
+| --------------- | --------------- |
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-  
-</div>  
 <p align="center">    
 <img src="https://img.shields.io/badge/-CSS-157286?logo=css3&logoColor=fff" />
 <img src="https://img.shields.io/badge/-HTML-e34F26?logo=html5&logoColor=fff" />
