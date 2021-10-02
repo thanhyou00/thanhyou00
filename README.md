@@ -1,5 +1,6 @@
 
 
+
 <img width="100%" height="450" src="https://i.pinimg.com/originals/fa/8d/38/fa8d38f28940fb3ca0195e2096e555e1.gif" />
 
 ##
@@ -16,6 +17,11 @@
   </a>
 </div>
 
+### Views
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=thanhyou00">
+</a>
 
 ### Statistics
 
@@ -39,7 +45,7 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>       
 </p>
-
+<br>
 <p align="center">
     <a href="https://github.com/thanhyou00/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thanhyou00's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhyou00&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
