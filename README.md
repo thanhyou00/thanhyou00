@@ -19,7 +19,7 @@
 
 ### Views
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/thanhyou00">
     <img src="https://komarev.com/ghpvc/?username=thanhyou00">
 </a>
 
