@@ -11,11 +11,11 @@
 
  </div> 
 </br>
-<div align="center">
-  <a href="https://github.com/thanhyou00">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=1;2;3;Let's+go+!&center=true&width=500&height=45"/>
-  </a>
-</div>
+
+<a href="https://github.com/thanhyou00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=1...2...3...4...5...6...7...8...;3000;Love+You+!+!&center=true&width=500&height=45"/>
+</a>
+
 
 ### Views
 
