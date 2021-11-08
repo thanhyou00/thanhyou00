@@ -1,20 +1,12 @@
 
-
-
-<img width="100%" height="450" src="https://images.viblo.asia/13aa3c84-0306-4e60-acd0-c4f8d3f147ca.gif" />
-
-##
-
 <div align="center"  style='border: 10px solid #ffffff'>
-
-
 
  </div> 
 </br>
 
 <div align="center">
 <a href="https://github.com/thanhyou00">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=1...2...3...4...5...6...7...8...;3000;Love+You+!&center=true&width=500&height=45"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=1...2...3...4...5...6...7...8...;3000;Love+You+!&center=true&width=500&height=40"/>
 </a>
  </div>
 
@@ -29,7 +21,7 @@
 
   <br/>
     <a href="https://github.com/thanhyou00/github-readme-stats"><img alt="thanhyou00's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhyou00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/thanhyou00/github-readme-stats"><img alt="thanhyou00's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a align="right" href="https://github.com/thanhyou00/github-readme-stats"><img alt="thanhyou00's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
