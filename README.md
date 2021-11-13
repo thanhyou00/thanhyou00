@@ -1,14 +1,14 @@
 
-<div align="center"  style='border: 10px solid #ffffff'>
+<!-- <div align="center"  style='border: 10px solid #ffffff'>
 
- </div> 
-</br>
+ </div>  -->
 
-<div align="center">
+
+<!-- <div align="center">
 <a href="https://github.com/thanhyou00">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=1...2...3...4...5...6...7...8...;3000;Love+You+!&center=true&width=500&height=40"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=☠;3000;Love+You+!&center=true&width=500&height=40"/>
 </a>
- </div>
+ </div> -->
 
 
 ### Views
