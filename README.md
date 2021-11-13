@@ -24,10 +24,10 @@
   <a align="right" href="https://github.com/thanhyou00/github-readme-stats"><img alt="thanhyou00's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhyou00&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
+<!-- 
+### Languages -->
 
-### Languages
-
-<p>    
+<!-- <p>    
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -38,7 +38,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>       
-</p>
+</p> -->
 <br>
 <p align="center">
     <a href="https://github.com/thanhyou00/github-readme-streak-stats">
