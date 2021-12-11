@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=☠;3000;Love+You+!&center=true&width=500&height=40"/>
 </a>
  </div> -->
-<img src="https://c.tenor.com/lrPmjYMHveAAAAAC/hand.gif" width=100% height=450 />
+<img src="https://c.tenor.com/lrPmjYMHveAAAAAC/hand.gif" width=100% height=400 />
 
 ### Views
 
