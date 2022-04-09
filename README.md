@@ -4,18 +4,18 @@
  </div>  -->
 
 
-<!-- <div align="center">
+<div align="center">
 <a href="https://github.com/thanhyou00">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=☠;3000;Love+You+!&center=true&width=500&height=40"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi;Welcome+my+github;3000;Love+You+!&center=true&width=500&height=50"/>
 </a>
- </div> -->
+ </div>
 <!-- <img src="https://i.pinimg.com/originals/85/58/91/855891b6903caa72a5a7172a6c823345.gif" width=100% height=280 /> -->
 
-<!-- ### Views
+### Views
 
 <a href="https://github.com/thanhyou00">
     <img src="https://komarev.com/ghpvc/?username=thanhyou00">
-</a> -->
+</a> 
 
 <!-- ### Statistics -->
 <!--     <a href="https://github.com/thanhyou00/github-readme-stats"><img alt="thanhyou00's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanhyou00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
