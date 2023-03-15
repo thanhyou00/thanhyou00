@@ -4,12 +4,12 @@
  </div>  -->
 
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/thanhyou00">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=There+is+crack+in+everything,;+that’s+how+the+light+gets+in.;&center=true&width=500&height=50"/>
 </a>
- </div>
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width=100% height=320 />
+ </div> -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODIxNzkyYmVhMWQ4MjY3MmU2MDFkYTc2ZWU3Mzg0NTg1NzViZTEyMSZjdD1n/hNJwTYxnfK3te/giphy.gif" width=100% height=340 />
 
 ### Views
 
