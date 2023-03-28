@@ -38,6 +38,7 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a> 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a> 
+<a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/laravel.png"/> </a> 
 </p>
 <br>
 <p align="center">
