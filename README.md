@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=There+is+crack+in+everything,;+that’s+how+the+light+gets+in.;&center=true&width=500&height=50"/>
 </a>
  </div> -->
-<img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width=100% height=340 />
+<img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width=100% height=300 />
 
 ### Views
 
